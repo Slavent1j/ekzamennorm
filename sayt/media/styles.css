@@ -1,0 +1,17 @@
+header
+{
+  background-color: #25B33f;
+  margin-bottom: 10px;
+}
+footer {
+ display: flex;
+  flex: 20px;
+  background-color: #45a13e;
+}
+
+ p {
+  color: red;
+ }
+ .text {
+  font-size: 24px;
+ }
